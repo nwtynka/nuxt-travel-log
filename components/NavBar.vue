@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import ThemeToggle from "./ThemeToggle.vue"
-</script>
-
 <template>
   <div class="navbar bg-primary text-primary-content">
     <div class="navbar-start">
