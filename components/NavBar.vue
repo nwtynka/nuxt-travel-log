@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import ThemeToggle from "./ThemeToggle.vue"
-</script>
-
 <template>
   <div class="navbar bg-primary text-primary-content">
     <div class="navbar-start">
@@ -10,7 +6,6 @@ import ThemeToggle from "./ThemeToggle.vue"
       </NuxtLink>
     </div>
     <div class="navbar-end">
-      <ThemeToggle />
       <a class="btn btn-accent">
         Sign In With Github
         <Icon name="tabler:brand-github" size="24" />
